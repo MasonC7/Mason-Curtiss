@@ -69,6 +69,6 @@ My goal is to support teams building secure, scalable, automated, and reliable c
 
 ## Connect
 
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/masoncurtiss
 - Portfolio: Add your portfolio URL here
-- Email: Add your professional email here
+- Email: masonacurtiss@yahoo.com 
