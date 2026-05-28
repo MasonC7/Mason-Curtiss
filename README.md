@@ -70,5 +70,5 @@ My goal is to support teams building secure, scalable, automated, and reliable c
 ## Connect
 
 - LinkedIn: www.linkedin.com/in/masoncurtiss
-- Portfolio: Add your portfolio URL here
+- Portfolio: https://masonc7.github.io/devops-cloud-portfolio/
 - Email: masonacurtiss@yahoo.com 
