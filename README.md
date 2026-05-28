@@ -1,8 +1,8 @@
 # Mason-Curtiss
 
-# Hi, I'm Mason Curtiss
+## Hi, I'm Mason Curtiss
 
-## Cloud & DevOps Engineer
+### Cloud & DevOps Engineer
 
 Cloud infrastructure built with discipline, automation, and reliability.
 
